@@ -65,23 +65,23 @@
 
 - **Transporte**
   
-    4. Transporte
+    (4) Transporte
 
 ---
 
 - **Internet**
   
-    3. Rede
+    (3) Rede
 
 ---
 
 - **Acesso à Rede**
   
-    2. Enlace de dados
+    (2) Enlace de dados
     
     ---
     
-    1. Física
+    (1) Física
 
 ---
 
