@@ -159,7 +159,7 @@
 
 - Na camada 3 - Rede [ **IP** ]
     - O **segmento** é encapsulado
-    - Ou seja, um cabeçalho (header) onde é adicionado ao dado
+    - Ou seja, um cabeçalho (header) onde é adicionado ao segmento
     - Nele é adicionado
         1. IP de origem (192.168.x.x)
         2. IP de destino (192.168.x.x)
@@ -210,7 +210,7 @@
 
 - Na camada 2 - Enlace de Dados [ **Ethernet** ]
     - O **Pacote** é encapsulado
-    - Ou seja, um cabeçalho (header) é adicionado ao dado
+    - Ou seja, um cabeçalho (header) é adicionado ao pacote
     - Nele é adicionado
         1. MAC de Destino
         2. MAC de Origem
