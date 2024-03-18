@@ -138,8 +138,8 @@
     - Tamanho do Header
         - 20 bytes
     - Adições para o Header ( exemplo )
-        1. **Porta de Origem (16 bits):** 16 bits / 8 bits por byte = `**2 bytes**`
-        2. **Porta de Destino (16 bits):** 16 bits / 8 bits por byte = `**2 bytes**`
+        1. **Porta de Origem (16 bits):** 16 bits / 8 bits por byte = **`2 bytes`**
+        2. **Porta de Destino (16 bits):** 16 bits / 8 bits por byte = **`2 bytes`**
         3. **Número de Sequência (32 bits):** 32 bits / 8 bits por byte = **`4 bytes`**
         4. **Número de Acknowledgment (32 bits):** 32 bits / 8 bits por byte = **`4 bytes`**
         5. **Tamanho do Cabeçalho (4 bits):** 4 bits / 8 bits por byte = **`0,5 bytes`** (arredondado para **`1 byte`**)
