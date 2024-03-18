@@ -1,4 +1,4 @@
-# Trajetória de dados
+# Trajetória de dados nos modelos OSI e TCP/IP
 
 ## O que é o Modelo OSI?
 
