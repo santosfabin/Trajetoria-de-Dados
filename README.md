@@ -50,6 +50,7 @@
 ## TCP/IP
 
 - **Aplicação**
+  
     7. Aplicação
     
     ---
@@ -63,16 +64,19 @@
 ---
 
 - **Transporte**
+  
     4. Transporte
 
 ---
 
 - **Internet**
+  
     3. Rede
 
 ---
 
 - **Acesso à Rede**
+  
     2. Enlace de dados
     
     ---
