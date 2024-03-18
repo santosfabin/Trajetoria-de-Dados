@@ -51,15 +51,15 @@
 
 - **Aplicação**
   
-    7. Aplicação
+    (7) Aplicação
     
     ---
     
-    6. Apresentação
+    (6) Apresentação
     
     ---
     
-    5. Sessão
+    (5) Sessão
 
 ---
 
