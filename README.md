@@ -14,32 +14,32 @@
 
 ## Modelo OSI
 
-1. Aplicação
+7. Aplicação
     - Prove serviços (dados das aplicações = dados relevantes para o usuário)
 
 ---
 
-1. Apresentação
+6. Apresentação
     - Tonar os dados legíveis para o receptor (recursos com Charset [UTF-8 e outros] e as criptografias são feitas aqui)
 
 ---
 
-1. Sessão
+5. Sessão
     - Gerenciamento de sessão (ponte entre a camada de transporta e a necessidade da aplicação)
 
 ---
 
-1. Transporte
+4. Transporte
     - Determinar a aplicação de origem e destino (endereçamento de portas). Confiabilidade. Segmentação e Reagrupamento ( que permite a multiplexação de conversações)
 
 ---
 
-1. Rede
+3. Rede
     - Endereçamento logico e (IP). Roteamento
 
 ---
 
-1. Enlace de Dados
+2. Enlace de Dados
     - Endereçamento Físico. Controle de acesso ao meio físico. Verificação de erros (checksum)
 
 ---
@@ -50,30 +50,30 @@
 ## TCP/IP
 
 - **Aplicação**
-    1. Aplicação
+    7. Aplicação
     
     ---
     
-    1. Apresentação
+    6. Apresentação
     
     ---
     
-    1. Sessão
+    5. Sessão
 
 ---
 
 - **Transporte**
-    1. Transporte
+    4. Transporte
 
 ---
 
 - **Internet**
-    1. Rede
+    3. Rede
 
 ---
 
 - **Acesso à Rede**
-    1. Enlace de dados
+    2. Enlace de dados
     
     ---
     
