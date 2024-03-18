@@ -47,6 +47,8 @@
 1. Física
     - Transmissão binária no respectivo meio físico ( cabo de par trançado, fibra wireless)
 
+---
+
 ## TCP/IP
 
 - **Aplicação**
